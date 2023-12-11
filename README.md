@@ -22,9 +22,9 @@ This tool computes the RRMSE (Relative Root Mean Square Error) for the individua
         WOPR:Injector: nan
         WOPT:Injector: nan
 
-In addition, to the RRMSE metrics, it generates plots in the local work directory to compare (e.g., WBHP:Injector.pdf). View with a PDF viewer.
+In addition, to the RRMSE metrics, it generates plots in the local work directory to compare (e.g., `WBHP:Injector.pdf`). View with a PDF viewer.
 
-Example of `WBHP:Injector`:
+Example of `WBHP:Injector.pdf`:
 
 <p align="center">
   <img src="./images/WBHP:Injector.png" />
