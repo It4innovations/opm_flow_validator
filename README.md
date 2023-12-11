@@ -27,7 +27,7 @@ In addition, to the RRMSE metrics, it generates plots in the local work director
 Example of `WBHP:Injector`:
 
 <p align="center">
-  <img src="./images/WBPH:Injector.png" />
+  <img src="./images/WBHP:Injector.png" />
 </p>
 
 # Contact
