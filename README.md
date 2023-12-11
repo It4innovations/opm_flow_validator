@@ -24,6 +24,12 @@ This tool computes the RRMSE (Relative Root Mean Square Error) for the individua
 
 In addition, to the RRMSE metrics, it generates plots in the local work directory to compare (e.g., WBHP:Injector.pdf). View with a PDF viewer.
 
+Example of `WBHP:Injector`:
+
+<p align="center">
+  <img src="./images/WBPH:Injector.png" />
+</p>
+
 # Contact
 Should you have any feedback or questions, please contact the main author: Georg Zitzlsberger (georg.zitzlsberger(a)vsb.cz).
 

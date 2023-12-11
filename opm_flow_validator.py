@@ -117,5 +117,5 @@ for query in querys:
     ax = df_a.plot(use_index=True, xlabel="TIME", ylabel=query, figsize=(15,8))
     df_b.plot(use_index=True, xlabel="TIME", ylabel=query, label=dir_b, ax=ax)
     ax.grid()
-    ax.legend([dir_a, dir_b])
+    ax.legend(["../orig_sleip_n1_np8_omp2", "../sleip_n1_np8_omp2"]) #[dir_a, dir_b])
     plt.savefig("{}.pdf".format(query), bbox_inches='tight')
